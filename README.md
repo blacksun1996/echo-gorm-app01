@@ -3,7 +3,7 @@
 
 ## 🏃‍♀️ Run
 ```sh
-git clone https://github.com/cjaewon/echo-gorm-example.git
+git clone https://github.com/blacksun1996/echo-gorm-app01.git
 
 // run
 
